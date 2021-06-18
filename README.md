@@ -1,4 +1,4 @@
-# gamesbi
+# powerbi dashboard (video games)
 connaitre les consoles les plus utilisés 
 et savoir plus du details sur les meilleurs periodes d'achat et lequelles des consoles les plus achetés ou
 demandeés sur le marché 
